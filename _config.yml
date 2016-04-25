@@ -1,0 +1,28 @@
+name: DNC
+favicon: null
+layout_spectrum: 0.10441822209395468
+typography_spectrum: 0.6515361911151558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2053849759977311
+  lightness: 0.2401696457527578
+  saturation: 0.1067049689590931
+  rhythmicContrast: 0.9520293630193919
+purpose: []
